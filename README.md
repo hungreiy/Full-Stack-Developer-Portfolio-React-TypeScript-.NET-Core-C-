@@ -14,7 +14,7 @@ I'm a passionate full-stack developer specializing in modern **React + TypeScrip
 - **Databases**: MS SQL Server, PostgreSQL  
 - **Other**: Git/GitHub Actions, Docker basics, xUnit + Moq testing, Agile/Scrum  
 
-### 🚀 Featured Projects (Addressing Recruiter Feedback)
+### 🚀 Featured Projects
 
 #### 1. Internal Dashboard – React + TypeScript + .NET Core API
 Full-stack internal tool (dashboard with charts, real-time data, user management)  
