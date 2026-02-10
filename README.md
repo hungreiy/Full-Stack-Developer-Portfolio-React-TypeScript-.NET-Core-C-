@@ -21,24 +21,23 @@ Full-stack internal tool (dashboard with charts, real-time data, user management
 - **Frontend**: React + TypeScript (TSX), TanStack Query, Tailwind, responsive UI/UX with dark mode & accessibility  
 - **Backend**: ASP.NET Core Web API (.NET 8), EF Core, JWT authentication, optimized queries  
 - **Highlights**: Performance caching, clean component structure, intuitive UX flows  
-Repo: [Link your actual repo here – create separate one below]  
-Live: [Vercel / Azure link if deployed]
+Repo: 
+Live: 
 
 #### 2. Task Management App – Production-Grade Full-Stack
 Kanban-style task app with drag & drop  
 - **Frontend**: React + TypeScript, react-beautiful-dnd, React Hook Form + Zod validation  
 - **Backend**: .NET Core API, PostgreSQL, Redis caching layer  
 - **UI/UX**: Mobile-first, toast notifications, smooth interactions, usability testing iterations  
-Repo: [Create & link separate repo]  
-Live: [Optional deploy]
+Repo:
+Live: 
 
 #### 3. Employee Onboarding Portal – UI/UX Heavy Project
 Multi-step form + dashboard for internal processes  
 - **Frontend**: React + TypeScript, form wizard pattern, accessibility-focused components  
 - **Backend**: ASP.NET Core, secure file uploads, real-time validation  
 - **UI/UX**: Simplified flows, progress indicators, reduced abandonment through feedback  
-Repo: [Link]
-
+Repo: 
 More projects & code samples available on request.
 
 ### 📊 GitHub Stats
