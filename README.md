@@ -46,7 +46,5 @@ More projects & code samples available on request.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hai&layout=compact&theme=radical)
 
 ### 📫 Reach Me
-- LinkedIn → [your-link]  
-- Email → [your-email]  
-
+- Email → hizazrn@gmail.com
 Thanks for visiting! Open to opportunities in full-stack development, especially React TS + .NET environments.
